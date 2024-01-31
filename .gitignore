@@ -1,0 +1,20 @@
+# Ignore compiled binaries
+*.exe
+*.o
+*.out
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore generated files
+dist/
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore user-specific files
+Thumbs.db
+Desktop.ini
+
+# Ignore Haxball Aimbot specific files
+aim-avatar.js
